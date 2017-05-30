@@ -34,4 +34,4 @@ See `run.sh` for an example invocation of the scripts above and integration with
 Walkthrough
 -----------
 
-An overview of all steps required to implement an instance of osm-analytics can be found [here](https://gist.github.com/tyrasd/5f17d10a5b9ab1c8d2409238a5e0a54b) (work in progress)
+An overview of all steps required to implement an instance of osm-analytics can be found [here](https://github.com/GFDRR/osm-analytics-cruncher/blob/notippecanoe/documentation/setup_walkthrough.md) (work in progress)
