@@ -26,7 +26,7 @@ function cleanup {
 }
 
 # generate user experience data
-./experiences.sh planet.mbtiles
+./experiences.sh $PLANET
 
 # buildings
 ./crunch.sh $PLANET buildings 64
