@@ -15,7 +15,7 @@
 # config
 WORKING_DIR=/mnt/data
 RESULTS_DIR=~/results
-SERVER_SCRIPT=/home/ubuntu/server/serve.js
+SERVER_SCRIPT=./server/serve.js
 
 PLANET=$1
 
